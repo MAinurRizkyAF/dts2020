@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dts</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menuUlg">Ulang</string>
+    <string name="menuklr">Keluar</string>
+
+</resources>
